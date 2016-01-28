@@ -1,0 +1,37 @@
+1. int j = 0
+while (j < 6)
+
+2. println("Hello Vesta")
+
+Vesta vest = new Vesta()
+
+vest.speak()
+
+3. println("Hello Vesta")
+
+Vesta vest = new Vesta()
+
+vest.speak()
+
+4.new Vest().speak()
+5.new Vest().speak()
+6. String message;
+message = mess;
+System.out.println(message)
+Vesta vest = new Vesta ("Hello Vesta")
+7. int limit;
+limit = lim;
+while j < limit
+Vesta vest = new Vesta ("Hello vesta", 6)
+8. void speak (int limit)
+while j < limit
+vest.speak(6)
+9.message = "hello vesta"
+Vesta (string mess)
+message = mess
+vest.speak(6)
+10.
+void changemessage(String mess)
+
+System.out.println(message)
+vest.changeMessage("hello Ceres")
